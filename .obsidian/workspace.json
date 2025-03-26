@@ -90,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of todo"
+              "title": "Outline"
             }
           },
           {
@@ -149,8 +148,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02dc28e4ec922359",
+  "floating": {
+    "id": "cd6cb03654d1468c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5b491c2449e261d8",
+        "type": "window",
+        "children": [
+          {
+            "id": "25e205b3da0ae3ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3fb96e0eac15ebb2",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/horseincorporated/components/design",
+                    "title": "design - horseincorporated - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "design - horseincorporated - Obsidian Publish"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1088,
+        "y": 25,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3fb96e0eac15ebb2",
   "lastOpenFiles": [
+    "todo.md",
     "morpher/design.md",
     "morpher/discussion.md",
     "whisper/design.md",
@@ -176,7 +215,6 @@
     "api/design.md",
     "api/discussion.md",
     "db/design.md",
-    "db/discussion.md",
     "morpher",
     "whisper",
     "flows",
