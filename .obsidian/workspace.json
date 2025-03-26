@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "23d28482b202de9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a92b7ad40203eb68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccbb72cb10fdbc41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "4255a01c7650026f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "51ccf7455a905b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbd2d3890149cb2d",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "208d4d3689f40ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9044f11993dbf969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02dc28e4ec922359",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79ffa534137ae74b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "todo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of todo"
+            }
+          },
+          {
+            "id": "5ae6683a8f3b7c15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bffc737b91cde3da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "02dc28e4ec922359",
+  "lastOpenFiles": [
+    "morpher/design.md",
+    "morpher/discussion.md",
+    "whisper/design.md",
+    "whisper/discussion.md",
+    "flows/design.md",
+    "flows/discussion.md",
+    "tagger/design.md",
+    "tagger/discussion.md",
+    "assets/design.md",
+    "assets/discussion.md",
+    "coder/design.md",
+    "coder/discussion.md",
+    "websearcher/design.md",
+    "websearcher/discussion.md",
+    "filesearcher/design.md",
+    "filesearcher/discussion.md",
+    "telemetry/design.md",
+    "telemetry/discussion.md",
+    "templates/design.md",
+    "templates/discussion.md",
+    "issuedecorator/design.md",
+    "issuedecorator/discussion.md",
+    "api/design.md",
+    "api/discussion.md",
+    "db/design.md",
+    "db/discussion.md",
+    "morpher",
+    "whisper",
+    "flows",
+    "tagger",
+    "coder",
+    "websearcher",
+    "filesearcher",
+    "telemetry",
+    "templates",
+    "issuedecorator",
+    "assets/horsebar.png",
+    "Untitled.canvas"
+  ]
+}
