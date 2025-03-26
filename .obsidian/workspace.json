@@ -90,12 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of todo"
             }
           },
           {
@@ -148,73 +149,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "cd6cb03654d1468c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5b491c2449e261d8",
-        "type": "window",
-        "children": [
-          {
-            "id": "25e205b3da0ae3ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3fb96e0eac15ebb2",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/horseincorporated/components/design",
-                    "title": "design - horseincorporated - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "design - horseincorporated - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1088,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3fb96e0eac15ebb2",
+  "active": "51ccf7455a905b62",
   "lastOpenFiles": [
+    "workspace/home.md",
+    "whiteboard/home.md",
+    "whisper/home.md",
+    "websearcher/home.md",
+    "templates/home.md",
+    "telemetry/home.md",
+    "tagger/home.md",
+    "repl/home.md",
+    "qa/home.md",
+    "prompts/home.md",
+    "plugins/home.md",
+    "morpher/home.md",
+    "mcp/home.md",
+    "issuedecorator/home.md",
+    "flows/home.md",
+    "filesearcher/home.md",
+    "diagrams/home.md",
+    "diagrammer/home.md",
+    "db/home.md",
+    "components/home.md",
+    "coder/home.md",
+    "bus/home.md",
+    "assets/home.md",
+    "api/home.md",
+    "actions/home.md",
     "todo.md",
-    "morpher/design.md",
-    "morpher/discussion.md",
-    "whisper/design.md",
-    "whisper/discussion.md",
-    "flows/design.md",
-    "flows/discussion.md",
-    "tagger/design.md",
-    "tagger/discussion.md",
-    "assets/design.md",
-    "assets/discussion.md",
-    "coder/design.md",
-    "coder/discussion.md",
-    "websearcher/design.md",
-    "websearcher/discussion.md",
-    "filesearcher/design.md",
-    "filesearcher/discussion.md",
-    "telemetry/design.md",
-    "telemetry/discussion.md",
-    "templates/design.md",
-    "templates/discussion.md",
-    "issuedecorator/design.md",
-    "issuedecorator/discussion.md",
-    "api/design.md",
-    "api/discussion.md",
-    "db/design.md",
     "morpher",
     "whisper",
     "flows",

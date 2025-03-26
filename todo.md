@@ -1,9 +1,5 @@
-- [x] Add diagrams repo
-- [x] Add qa repo
-- [x] Push all repos with:
-	- [x] README with link to docs
+
 - [ ] Add to docs
-	- [x] Change to projects at root structure
 	Add to guides:
 		- [ ] Developing locally 
 		- [ ] Developing remotely
