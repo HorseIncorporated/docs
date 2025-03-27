@@ -1,7 +1,25 @@
+# [[projects]]
 
-Add to guides:
-- [ ] Developing locally 
+## [[workspaces]]
+- [ ] [[codespace]] first
+- [ ] [[claude code contexts]]:
+	- [ ] [[organization]] (all [[repos]]) 
+	- [ ] [[Project]] (bundle [[repos]] as [[dependencies]])
+	- [ ] [[repo]]
+	- [ ] 
+	
+
+## Claude code contexts
+
+create [[devcontainers]] that load in [[feature]] repos ([[service components]])
+
+## [[container registries]]
+
+## Add docs/guides
+- [ ] [[Developing locally ]]
 - [ ] Developing remotely
+- [ ] [[Feedback]]
+- [ ] [[Software cycle types]]
 - [ ] Creating a feature request
 - [ ] Reporting a bug
 - [ ] contributions
