@@ -24,6 +24,9 @@ create [[devcontainers]] that load in [[feature]] repos ([[service components]])
 - [ ] Reporting a bug
 - [ ] contributions
 
+## Setup
+- [ ] 
+
 Misc:
 - [ ] 
 - [ ] Add vscode devcontainer workspace configuration that mimics local workspace layout
