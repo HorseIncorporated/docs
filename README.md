@@ -19,7 +19,7 @@
 
 - projects
 
-# 🐴 **engineer**
+# 🐴 **engineering**
 
 ## ***contributions***
 
